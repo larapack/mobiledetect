@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/marktopper/Laravel-MobileDetect.svg)](https://travis-ci.org/marktopper/mobiledetect)
 [![Total Downloads](https://poser.pugx.org/marktopper/mobiledetect/downloads.svg)](https://packagist.org/packages/marktopper/mobiledetect)
-[![Latest Stable Version](https://poser.pugx.org/marktopper/marktopper/mobiledetect/v/stable.svg)](https://packagist.org/packages/marktopper/mobiledetect)
+[![Latest Stable Version](https://poser.pugx.org/marktopper/mobiledetect/v/stable.svg)](https://packagist.org/packages/marktopper/mobiledetect)
 [![Latest Unstable Version](https://poser.pugx.org/marktopper/mobiledetect/v/unstable.svg)](https://packagist.org/packages/marktopper/mobiledetect)
 [![License](https://poser.pugx.org/marktopper/mobiledetect/license.svg)](https://packagist.org/packages/marktopper/mobiledetect)
 
