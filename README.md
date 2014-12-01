@@ -1,5 +1,11 @@
 # MobilDetect package for Laravel
 
+[![Build Status](https://travis-ci.org/marktopper/Laravel-MobileDetect.svg)](https://travis-ci.org/marktopper/Laravel-MobileDetect)
+[![Total Downloads](https://poser.pugx.org/marktopper/Laravel-MobileDetect/downloads.svg)](https://packagist.org/packages/marktopper/Laravel-MobileDetect)
+[![Latest Stable Version](https://poser.pugx.org/marktopper/Laravel-MobileDetect/v/stable.svg)](https://packagist.org/packages/marktopper/Laravel-MobileDetect)
+[![Latest Unstable Version](https://poser.pugx.org/marktopper/Laravel-MobileDetect/v/unstable.svg)](https://packagist.org/packages/marktopper/Laravel-MobileDetect)
+[![License](https://poser.pugx.org/marktopper/Laravel-MobileDetect/license.svg)](https://packagist.org/packages/marktopper/Laravel-MobileDetect)
+
 ### Installation
 
 First add the package to your composer by running command `composer require marktopper/mobiledetect 1.*` or by adding the following code to `composer.json` followed by running the command `composer update`:
