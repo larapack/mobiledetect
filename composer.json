@@ -1,0 +1,27 @@
+{
+    "name": "marktopper/mobiledetect",
+    "version": "1.0",
+    "description": "Laravel package for MobileDetect",
+    "authors": [
+        {
+            "name": "Mark Topper",
+            "email": "hi@webman.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.x",
+        "mobiledetect/mobiledetectlib": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "MarkTopper\\MobileDetect": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
