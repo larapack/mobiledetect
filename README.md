@@ -1,6 +1,6 @@
 # MobilDetect package for Laravel
 
-[![Build Status](https://travis-ci.org/marktopper/Laravel-MobileDetect.svg)](https://travis-ci.org/marktopper/mobiledetect)
+[![Build Status](https://travis-ci.org/marktopper/laravel-mobiledetect.svg)](https://travis-ci.org/marktopper/laravel-mobiledetect)
 [![Total Downloads](https://poser.pugx.org/marktopper/mobiledetect/downloads.svg)](https://packagist.org/packages/marktopper/mobiledetect)
 [![Latest Stable Version](https://poser.pugx.org/marktopper/mobiledetect/v/stable.svg)](https://packagist.org/packages/marktopper/mobiledetect)
 [![Latest Unstable Version](https://poser.pugx.org/marktopper/mobiledetect/v/unstable.svg)](https://packagist.org/packages/marktopper/mobiledetect)
