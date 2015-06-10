@@ -1,5 +1,5 @@
 {
-    "name": "marktopper/mobiledetect",
+    "name": "larapack/mobiledetect",
     "version": "1.0",
     "description": "Laravel package for MobileDetect",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "MarkTopper\\MobileDetect": "src/"
+            "Larapack\\MobileDetect": "src/"
         }
     },
     "minimum-stability": "dev",
