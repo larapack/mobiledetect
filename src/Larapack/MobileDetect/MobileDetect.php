@@ -1,4 +1,4 @@
-<?php namespace MarkTopper\MobileDetect;
+<?php namespace Larapack\MobileDetect;
 
 use Illuminate\Support\Facades\Facade;
 
