@@ -5,6 +5,7 @@
 [![Latest Stable Version](https://poser.pugx.org/larapack/mobiledetect/v/stable.svg)](https://packagist.org/packages/larapack/mobiledetect)
 [![Latest Unstable Version](https://poser.pugx.org/larapack/mobiledetect/v/unstable.svg)](https://packagist.org/packages/larapack/mobiledetect)
 [![License](https://poser.pugx.org/larapack/mobiledetect/license.svg)](https://packagist.org/packages/larapack/mobiledetect)
+[![Open Source Helpers](https://www.codetriage.com/larapack/mobiledetect/badges/users.svg)](https://www.codetriage.com/larapack/mobiledetect)
 
 Info
 ====================
